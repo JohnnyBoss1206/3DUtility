@@ -27,7 +27,7 @@ Thumbs.db
 # Unity
 /Library/*
 
-/Asset/Assetlib/*
+/Assets/Assetlib/*
  
 Assembly-*
 *.csproj
