@@ -28,6 +28,10 @@ Thumbs.db
 /Library/*
 
 /Assets/Assetlib/*
+
+.*
+
+/UnityPackageManager/*
  
 Assembly-*
 *.csproj
