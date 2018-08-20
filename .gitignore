@@ -1,0 +1,63 @@
+# rcov generated
+coverage
+coverage.data
+ 
+# rdoc generated
+rdoc
+ 
+# yard generated
+#doc
+.yardoc
+ 
+# bundler
+#.bundle
+ 
+# jeweler generated
+pkg
+ 
+# MacOSX
+.DS_Store
+ 
+# Windows
+Thumbs.db
+ 
+# vim
+*.swp
+ 
+# Unity
+/Library/*
+!/Library/BuildSettings.asset
+!/Library/ProjectSettings.asset
+ 
+Assembly-*
+*.csproj
+*.sln
+*.suo
+*.pidb
+*.userprefs
+/Temp/
+ 
+# WindowsStoreApps for unity editor
+/LocalState/
+/RoamingState/
+/TempState/
+ 
+# UnityVS (Tools for Unity)
+/Assets/UnityVS/
+/Assets/UnityVS**
+/UnityVS.client.sln.DotSettings
+ 
+# for plugin binaries
+!*.dll
+!*.lib
+!*.a
+!*.jar
+!*.so
+!*.obj
+!*.cache
+!*.sbr
+
+# buildData
+/iOS/
+/iOS_DEV/
+SNS.png
